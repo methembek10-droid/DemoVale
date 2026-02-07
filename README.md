@@ -14,9 +14,7 @@ valentine gift
     <button class="no-btn">No 😔</button>
   </div>
   <script src="Vale.js"></script>
-</body>
-</html>
-body {
+  body {
   background-color: #f2f2f2;
   font-family: Arial, sans-serif;
   display: flex;
@@ -82,3 +80,6 @@ button {
   background-color: #ccc;
   color: #666;
 }
+
+</body>
+</html>
